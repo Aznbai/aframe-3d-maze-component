@@ -129,7 +129,6 @@
          verti: verti
      };
  }
-
  // 0 = no block
  // 1 = corner block
  // 2 = horizontal block
